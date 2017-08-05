@@ -1,6 +1,3 @@
-#!/usr/bin/env cwl-runner
-
-class: GUITool
 id: "DugongGUI"
 label: "DugongGUI XFCE4"
 cwlVersion: v1.0
